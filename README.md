@@ -1,4 +1,4 @@
-This is a project made to do simple dictionary based sentiment analysis on .txt files.
+This is a project made to do simple dictionary based sentiment analysis on .txt files. Currently a WIP to be cleaned up.
 
 ## Instructions:
 
